@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'activerecord-mysql2-adapter-patch'
-  s.version     = '0.1.0'
+  s.version     = '6.0.2.2'
   s.licenses    = ['MIT']
   s.summary     = 'ActiveRecord Mysql2 Adapater batch for datetime on update'
   s.description = 'Fixes schema.rb for datetime fields that use on update'
